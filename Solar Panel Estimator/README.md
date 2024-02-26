@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=SatireSage/Solar-Panel-Estimator&file=Solar Panel Estimator/SolarPanelEstimator.mlx)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=SatireSage/Solar-Panel-Estimator&file=Solar%20Panel%20Estimator/SolarPanelEstimator.mlx)
 
 # <span style="color:rgb(213,80,0)">Solar Panel Output Estimator</span>
 
